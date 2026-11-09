@@ -20,3 +20,4 @@ __pycache__/
 # Windows / editor
 Thumbs.db
 .vscode/
+build/
